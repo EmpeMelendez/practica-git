@@ -1,0 +1,24 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container {
+    margin: 10px;
+    background-color: #999;
+    border: 1px solid #ff5e6f;
+    width: 90%;
+    height: 1200px;
+}
+
+
+.container__title {
+    font-size: 2rem;
+    font-family:  Georgia;
+    color: rgb(240, 111, 6);
+}
+
+img {
+    width: 100%;
+}
